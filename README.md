@@ -1,7 +1,6 @@
 # Pneumonia-Detection-using-VGG16
 
-#### Goal:
-The goal of this project is to detect whether a person is suffering from Pneumonia or not.
+#### Goal: The goal of this project is to detect whether a person is suffering from Pneumonia or not.
 
 #### About the Data set:
 The Dataset is was downloaded from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). The size of the Dataset is 1 GB. 
